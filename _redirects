@@ -1,3 +1,4 @@
 /foo/:year  /foorewrite/:year
 /foo2/year-:year  /foo2rewrite/:year
 /foo3/bar.:year  /foo3rewrite/:year
+/foo4/:year /foo4rewrite-:year
