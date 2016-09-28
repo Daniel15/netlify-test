@@ -3,4 +3,4 @@
 /foo3/bar.:year  /foo3rewrite/:year
 /foo4/:year /foo4rewrite-:year
 
-/downloads/:version/:file https://github.com/foobar/foobar/releases/download/v:version/
+/downloads/:version/:file https://github.com/foobar/foobar/releases/download/v:version/:file
