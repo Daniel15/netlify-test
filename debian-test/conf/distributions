@@ -1,0 +1,7 @@
+Codename: stable
+Architectures: i386 amd64
+Origin: test
+Label: test
+Components: main
+Description: Test Repo
+SignWith: 5364CA44

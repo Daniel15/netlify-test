@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: test
+Label: test
+Codename: stable
+Date: Fri, 07 Oct 2016 04:13:57 UTC
+Architectures: i386 amd64
+Components: main
+Description: Test Repo
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 6f8e3db83275464c0709e116577892e4 83 main/binary-i386/Release
+ 7aafa58caac90264c6083ae690ebbf80 457 main/binary-amd64/Packages
+ 4dc755937317020f53764e9f7b2beac6 330 main/binary-amd64/Packages.gz
+ 1119b5f7dd7e6bc94b954f004e14eea1 84 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 55bbe22936b5341395fed737205964bcf99feec8 83 main/binary-i386/Release
+ e1f2e73dbeef57a437d82d16a543ae9e4fe462b5 457 main/binary-amd64/Packages
+ 6cd3d32a94a19c23c31671a3403e669ee8ff41d0 330 main/binary-amd64/Packages.gz
+ d153371dae4df7317aa3c59e29b6e5cfc8fcdc62 84 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ f05d124a76d178e43e717fbd9a2ccc697ed983f4d3f607209674c96ce430d74f 83 main/binary-i386/Release
+ 5e56ef1fcb321e76046a71e0596733b4882143824f11219f6f4c78529c932f0d 457 main/binary-amd64/Packages
+ 70a4ebb09574c63bc3aec7c36ccf7ba93ba53ee29639d95c1e308369225af3fe 330 main/binary-amd64/Packages.gz
+ 3492d4ad46f8cef11c205a416c86009ee759b6903ddcbcedbd4318cd48b32f98 84 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQIcBAEBAgAGBQJX9yETAAoJEA11Gr9TZMpEu0kP/R17wv/kG2mE5hGN+PBSwbJa
+0Jf3/FCqkR707c6oCA0UPwOm6fK3cLlPU52OhaG0VfWHaXIeEUI0Dg6zoIBizvts
+VozSGPlSJZJdg8NtKKz22647SqXlH31hPeVoLqYQXqYeh5z0TWNDJ8iHbkmTK/R0
+k5FovrwFdKXCFm64F0NlF/SJK27Wd+iplBkboYDDdYK1DXK4U67XllIJm/fceQXF
+mxaj9/APIGnfg8DNSKVPP8V7YW74XlsPev7vsWjf65NFDBHred5Ac3hH0icH3FAF
+1r0ek0089f5uXqasnGUY7ULAHgmbStJKnYc5eADRBoZ1Gt/ESD75nKORIMXVuecg
+pxijJRnvBEqwLfWVfkxuKVhlEumCogpCLaK6sZAGOWysRKBE77zD0iLj8/s0oCLH
+ZbYI8ZTATm1r2cosenFpcr3cE2MC2IxWYJd1ajEMBBfhh3L/V8mtLqB0VO+VoMbr
+LwvJjjVKWTfiom4hhArTHC7A7lph956sgreJLED8xkKLtobFRbXfBobnfCp1I8RB
+UXN6EF9EDGQOwnFwvVbrtpW9qwfNX9Z5df/k6HDY100LIF3/Bv45KHouyIwAbZzU
+9Bxp3w2AhA9azXBb+DEBAPs+/3dJUTIyjWrLnv0YN7EvN5xi4YuF+59VmaTJWNqD
+/u12BN/reH3cYB+QN7Zg
+=L8v9
+-----END PGP SIGNATURE-----

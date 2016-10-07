@@ -1,0 +1,5 @@
+Component: main
+Origin: test
+Label: test
+Architecture: amd64
+Description: Test Repo
